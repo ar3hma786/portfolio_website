@@ -41,6 +41,21 @@ function Experience() {
     const boxDetails = () => {
         return [
             {
+                companyLogo: "/KTLogo.png",
+                companyName: "Karma Technologies LLC",
+                date: "Sep 2024 - Present",
+                jobTitle: "Software Engineer",
+                description: `<ul>
+                    <li>Architected and maintained a multi-tenant SaaS application for Product Management, integrating React for the front-end and Spring Boot for the back-end to deliver robust, scalable solutions across diverse client environments.</li>
+                    <li>• Designed a modular microservices architecture to isolate tenant-specific functionalities, enhancing system scalability, security, and maintainability</li>
+                    <li>Implemented secure RESTful APIs using Spring Boot, incorporating Spring Security, JWT, and OAuth protocols to enforce robust authentication and authorization.</li>
+                    <li>Developed responsive and interactive user interfaces with React, streamlining product management workflows and improving user engagement.</li>
+                    <li>Optimized data persistence and query performance by leveraging Oracle Database, ensuring high data integrity and efficient transaction processing.</li>
+                    <li>Utilized GitHub for version control and Postman for API testing, fostering a collaborative development environment and continuous integration.</li>
+                    </ul>`
+
+            },
+            {
                 companyLogo: "/infosys.jpg",
                 companyName: "Infosys Limited",
                 date: "Feb 2024 - Apr 2024",
