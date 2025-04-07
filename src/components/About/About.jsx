@@ -27,7 +27,7 @@ function About() {
                             I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.
                         </p>
 
-                        <button type="button" className="btn checkresume" onClick={() => window.open('https://drive.google.com/file/d/1N_5SRYnw2c8yLJqr83EqeUYht0aojnux/view?usp=drive_link', '_blank')}>
+                        <button type="button" className="btn checkresume" onClick={() => window.open('https://drive.google.com/file/d/1hMyFQ5H7D7GnGL8SvQVB70kBb-5xCwsC/view?usp=sharing', '_blank')}>
                             Check Resume
                         </button>
 
