@@ -46,32 +46,42 @@ function Experience() {
                 date: "Sep 2024 - Present",
                 jobTitle: "Software Engineer",
                 description: `<ul>
-                    <li>Architected and maintained a multi-tenant SaaS application for Product Management, integrating React for the front-end and Spring Boot for the back-end to deliver robust, scalable solutions across diverse client environments.</li>
-                    <li>• Designed a modular microservices architecture to isolate tenant-specific functionalities, enhancing system scalability, security, and maintainability</li>
-                    <li>Implemented secure RESTful APIs using Spring Boot, incorporating Spring Security, JWT, and OAuth protocols to enforce robust authentication and authorization.</li>
-                    <li>Developed responsive and interactive user interfaces with React, streamlining product management workflows and improving user engagement.</li>
-                    <li>Optimized data persistence and query performance by leveraging Oracle Database, ensuring high data integrity and efficient transaction processing.</li>
-                    <li>Utilized GitHub for version control and Postman for API testing, fostering a collaborative development environment and continuous integration.</li>
+                      <li>Architected and maintained a multi-tenant SaaS application for Product Management using React and Spring Boot, supporting scalable deployments and cloud-native practices.</li>
+                      <li>Designed a modular microservices architecture, enabling integration with partner APIs and improving system scalability and isolation of tenant data.</li>
+                      <li>Implemented secure RESTful APIs with Spring Security, JWT, and OAuth2, aligning with enterprise-grade security practices for partner ecosystems.</li>
+                      <li>Developed partner-friendly UI components in React to streamline onboarding, dashboard visualizations, and feature accessibility.</li>
+                      <li>Utilized Oracle Database with optimized indexing and transaction management to ensure data consistency across tenants and partners.</li>
+                      <li>Integrated CI/CD pipelines using GitHub Actions and Jenkins for automated deployment, reducing manual intervention and increasing release efficiency.</li>
+                      <li>Collaborated cross-functionally to deliver IBM-like hybrid integration use cases using containerized deployments and OpenShift-ready components.</li>
+                      <li>Actively engaged in design thinking sessions to shape partner-centric solutions and align deliverables with evolving technical requirements.</li>
+                      <li>Participated in technical presentations and product walk-throughs for stakeholders, fostering trust and transparency.</li>
+                      <li>Monitored and improved service availability and health using built-in metrics and performance tuning techniques.</li>
                     </ul>`
 
             },
             {
                 companyLogo: "/infosys.jpg",
                 companyName: "Infosys Limited",
-                date: "Feb 2024 - Apr 2024",
-                jobTitle: "Senior Systems Engineer",
+                date: "Feb 2024 - Aug 2024",
+                jobTitle: "Senior Systems Engineer (Software)",
                 description: `<ul>
-                    <li>Developed scalable backend systems using Java and Spring Boot, integrating Spring Data JPA for efficient database operations.</li>
-                    <li>Designed and implemented microservices architecture for enhanced system modularity, scalability, and maintainability.</li>
-                    <li>Built RESTful APIs with Spring Boot, ensuring data integrity and authentication through Spring Security, JWT, and OAuth protocols.</li>
-                    <li>Developed responsive React interfaces for seamless user experiences, with MySQL expertise for efficient database management. Proficient in Postman, GitHub, Docker, and AWS for streamlined development and deployment.</li>
+                  <li>Engineered scalable and secure backend systems using Java and Spring Boot, integrating with partner services and enterprise-grade components.</li>
+                  <li>Led the transition to a microservices-based architecture, enhancing modularity and enabling reusability of business capabilities across teams.</li>
+                  <li>Developed APIs that supported external integrations with partner tools and third-party platforms, aligned with API-first strategy.</li>
+                  <li>Implemented OAuth2 and token-based access control for external consumption of APIs in a secure, scalable manner.</li>
+                  <li>Built interactive and mobile-friendly user interfaces using React, enhancing usability for both internal users and partners.</li>
+                  <li>Deployed solutions in Docker containers and worked with Kubernetes clusters, supporting elastic scaling and service discovery.</li>
+                  <li>Practiced DevOps with CI/CD automation (GitHub, Jenkins) and infrastructure-as-code.</li>
+                  <li>Contributed to solution design discussions, aligning technical choices with business goals and IBM-like delivery standards.</li>
+                  <li>Created end-to-end monitoring and alerting pipelines for production microservices using open-source APM tools.</li>
+                  <li>Mentored junior developers and collaborated with solution architects on high-impact features across partner channels.</li>
                 </ul>`,
             },
             {
                 companyLogo: "/infosys.jpg",
                 companyName: "Infosys Limited",
                 date: "Mar 2022 - Feb 2024",
-                jobTitle: "Systems Engineer",
+                jobTitle: "Systems Engineer (Software)",
                 description: `<ul>
                     <li>Learnt Java and Spring Boot basics with senior developers' guidance for backend system development.</li>
                     <li>Get introduced to React JSX and front-end development principles to create user-friendly interfaces.</li>
@@ -83,7 +93,7 @@ function Experience() {
                 companyLogo: "/infosys.jpg",
                 companyName: "Infosys Limited",
                 date: "Dec 2021 - Mar 2022",
-                jobTitle: "Systems Engineer Trainee",
+                jobTitle: "Systems Engineer Trainee (Software)",
                 description: `<ul>
                     <li>Participated in comprehensive Java and Spring Boot training programs at Infosys, acquiring essential skills for backend development.</li>
                     <li>Received hands-on training in developing scalable and efficient backend systems using Java, along with Spring Boot frameworks.</li>
