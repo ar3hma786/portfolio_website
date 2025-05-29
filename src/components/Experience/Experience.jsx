@@ -62,7 +62,7 @@ function Experience() {
             {
                 companyLogo: "/infosys.jpg",
                 companyName: "Infosys Limited",
-                date: "Feb 2024 - Jul 2024",
+                date: "Feb 2024 - Apr 2024",
                 jobTitle: "Senior Systems Engineer (Software)",
                 description: `<ul>
                   <li>Engineered scalable and secure backend systems using Java and Spring Boot, integrating with partner services and enterprise-grade components.</li>
